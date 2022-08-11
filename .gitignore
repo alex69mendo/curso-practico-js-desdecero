@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Ignorara config_git.txt
+config_git.txt
